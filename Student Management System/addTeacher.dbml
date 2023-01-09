@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="StudentManagement" Class="addTeacherDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=StudentManagement;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False" SettingsObjectName="Student_Management_System.Properties.Settings" SettingsPropertyName="StudentManagementConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.addTeacher" Member="addTeachers">
+    <Type Name="addTeacher">
+      <Column Name="id" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="firstName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="lastName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="password" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="fathersName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="caste" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="religion" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="gender" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="dob" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="phoneNumber" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="salary" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="placeOfBirth" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="cnic" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="nationality" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="address" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="subjectKey" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="subject" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="grade" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

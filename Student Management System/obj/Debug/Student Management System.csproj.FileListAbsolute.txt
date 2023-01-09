@@ -1,0 +1,31 @@
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.SearchEmployee.resources
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.SearchEmployeeByWork.resources
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.SearchEmployeeByName.resources
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.SearchTeacherByName.resources
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.SearchTeacherBySubject.resources
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.SearchTeacher.resources
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.SearchStudent.resources
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.Search.resources
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.EditData.resources
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.AddData.resources
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.AddEmployee.resources
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.AddTeacher.resources
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.AddStudent.resources
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.dashboard.resources
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.EditStudent.resources
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.EditEmployee.resources
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.EditTeacher.resources
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.Login.resources
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.SearchStudentByClass.resources
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.SearchStudentByName.resources
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.SearchStudentByRollNumber.resources
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.csprojAssemblyReference.cache
+C:\Users\Hizbulllah Bhatti\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.About.resources
